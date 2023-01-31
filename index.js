@@ -105,7 +105,7 @@ app.post("/forgotPassword", async (req, res) => {
           secure: false,
           auth: {
             user: "masssankar6379@gmail.com",
-            pass: "yihtesptpjslsall",
+            pass: "unptqcckajjquikp",
           },
         });
         let mailOptions = await transporter.sendMail({
